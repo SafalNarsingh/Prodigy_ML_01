@@ -39,7 +39,7 @@ jupyter notebook house_prices.ipynb
 ### 📦 Requirements
 Make sure the following Python libraries are installed:
 
-- bnumpy
+- numpy
 
 - pandas
 
