@@ -22,7 +22,7 @@ git clone https://github.com/SafalNarsingh/Prodigy_ML_01
  ```
 jupyter notebook house_prices.ipynb
  ```
-]
+
 
 ### 📁  File Structure
 ```
